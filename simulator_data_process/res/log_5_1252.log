@@ -1,0 +1,9 @@
+dataset_size_test 1252
+8 circular 2 0 1252
+Sample 0
+Traceback (most recent call last):
+  File "/cmmc/ptmp/ygong/projects/QMML_Light_HEA/run_5_split.py", line 89, in <module>
+    rand_sel_list_1 = np.random.choice(len(sample_train), train_size, replace=False)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "mtrand.pyx", line 965, in numpy.random.mtrand.RandomState.choice
+ValueError: Cannot take a larger sample than population when 'replace=False'

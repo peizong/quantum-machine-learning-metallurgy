@@ -1,0 +1,33 @@
+case_test 2
+8 none 1 0
+Sample 0
+Traceback (most recent call last):
+  File "/cmmc/ptmp/ygong/projects/QMML_Light_HEA/scripts/run_7_split.py", line 75, in <module>
+    zz_kernel = QuantumKernel(feature_map=encode_map, quantum_instance=BasicAer.get_backend('statevector_simulator'))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/cmmc/ptmp/ygong/conda-envs/QMML/lib/python3.11/site-packages/qiskit_machine_learning/deprecation.py", line 241, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/cmmc/ptmp/ygong/conda-envs/QMML/lib/python3.11/site-packages/qiskit/utils/deprecation.py", line 304, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/cmmc/ptmp/ygong/conda-envs/QMML/lib/python3.11/site-packages/qiskit_machine_learning/kernels/quantum_kernel.py", line 107, in __init__
+    super().__init__(feature_map=feature_map, enforce_psd=enforce_psd)
+  File "/cmmc/ptmp/ygong/conda-envs/QMML/lib/python3.11/site-packages/qiskit_machine_learning/kernels/trainable_kernel.py", line 37, in __init__
+    super().__init__(**kwargs)
+  File "/cmmc/ptmp/ygong/conda-envs/QMML/lib/python3.11/site-packages/qiskit_machine_learning/kernels/base_kernel.py", line 59, in __init__
+    self._num_features = feature_map.num_parameters
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/cmmc/ptmp/ygong/conda-envs/QMML/lib/python3.11/site-packages/qiskit/circuit/library/blueprintcircuit.py", line 108, in num_parameters
+    self._build()
+  File "/cmmc/ptmp/ygong/conda-envs/QMML/lib/python3.11/site-packages/qiskit/circuit/library/n_local/n_local.py", line 927, in _build
+    self._build_entanglement_layer(circuit, param_iter, i)
+  File "/cmmc/ptmp/ygong/conda-envs/QMML/lib/python3.11/site-packages/qiskit/circuit/library/n_local/n_local.py", line 863, in _build_entanglement_layer
+    entangler_map = self.get_entangler_map(i, j, block.num_qubits)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/cmmc/ptmp/ygong/conda-envs/QMML/lib/python3.11/site-packages/qiskit/circuit/library/n_local/n_local.py", line 599, in get_entangler_map
+    return get_entangler_map(n, self.num_qubits, entanglement, offset=i)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/cmmc/ptmp/ygong/conda-envs/QMML/lib/python3.11/site-packages/qiskit/circuit/library/n_local/n_local.py", line 1035, in get_entangler_map
+    raise ValueError(f"Unsupported entanglement type: {entanglement}")
+ValueError: Unsupported entanglement type: none

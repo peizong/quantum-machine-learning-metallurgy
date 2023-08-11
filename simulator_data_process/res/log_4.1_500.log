@@ -1,0 +1,1802 @@
+dataset_size_test 500
+8 circular 1 0 500
+Sample 0
+Take max_iter as  704
+Score of validation 0.81
+Score of training 0.9725
+Score of validation (classical) [0.72, 0.82, 0.84, 0.56]
+Score of training (classical) [0.7375, 0.8925, 0.875, 0.53]
+Sample 1
+Take max_iter as  695
+Score of validation 0.91
+Score of training 0.975
+Score of validation (classical) [0.72, 0.92, 0.92, 0.54]
+Score of training (classical) [0.7375, 0.87, 0.8725, 0.5525]
+Sample 2
+Take max_iter as  672
+Score of validation 0.87
+Score of training 0.9725
+Score of validation (classical) [0.73, 0.82, 0.86, 0.47]
+Score of training (classical) [0.7175, 0.8625, 0.825, 0.4625]
+Sample 3
+Take max_iter as  692
+Score of validation 0.85
+Score of training 0.97
+Score of validation (classical) [0.64, 0.76, 0.74, 0.56]
+Score of training (classical) [0.7375, 0.865, 0.8475, 0.49]
+Sample 4
+Take max_iter as  702
+Score of validation 0.84
+Score of training 0.97
+Score of validation (classical) [0.73, 0.88, 0.86, 0.54]
+Score of training (classical) [0.725, 0.875, 0.8575, 0.5525]
+Sample 5
+Take max_iter as  727
+Score of validation 0.89
+Score of training 0.965
+Score of validation (classical) [0.74, 0.83, 0.83, 0.54]
+Score of training (classical) [0.7225, 0.8575, 0.85, 0.49]
+Sample 6
+Take max_iter as  707
+Score of validation 0.85
+Score of training 0.9775
+Score of validation (classical) [0.74, 0.87, 0.86, 0.51]
+Score of training (classical) [0.73, 0.8875, 0.8675, 0.515]
+Sample 7
+Take max_iter as  691
+Score of validation 0.85
+Score of training 0.98
+Score of validation (classical) [0.7, 0.82, 0.79, 0.51]
+Score of training (classical) [0.75, 0.865, 0.865, 0.495]
+Sample 8
+Take max_iter as  727
+Score of validation 0.86
+Score of training 0.97
+Score of validation (classical) [0.71, 0.86, 0.85, 0.47]
+Score of training (classical) [0.745, 0.8975, 0.8925, 0.5]
+Sample 9
+Take max_iter as  751
+Score of validation 0.84
+Score of training 0.9825
+Score of validation (classical) [0.77, 0.9, 0.88, 0.54]
+Score of training (classical) [0.7875, 0.9275, 0.9325, 0.505]
+Sample 10
+Take max_iter as  637
+Score of validation 0.81
+Score of training 0.9775
+Score of validation (classical) [0.67, 0.76, 0.76, 0.49]
+Score of training (classical) [0.7125, 0.865, 0.8425, 0.515]
+Sample 11
+Take max_iter as  705
+Score of validation 0.85
+Score of training 0.9725
+Score of validation (classical) [0.79, 0.81, 0.83, 0.61]
+Score of training (classical) [0.745, 0.8775, 0.84, 0.585]
+Sample 12
+Take max_iter as  659
+Score of validation 0.87
+Score of training 0.985
+Score of validation (classical) [0.74, 0.87, 0.87, 0.56]
+Score of training (classical) [0.7275, 0.8725, 0.885, 0.55]
+Sample 13
+Take max_iter as  716
+Score of validation 0.81
+Score of training 0.98
+Score of validation (classical) [0.76, 0.8, 0.81, 0.47]
+Score of training (classical) [0.76, 0.85, 0.875, 0.54]
+Sample 14
+Take max_iter as  672
+Score of validation 0.83
+Score of training 0.98
+Score of validation (classical) [0.76, 0.85, 0.82, 0.53]
+Score of training (classical) [0.72, 0.8675, 0.8425, 0.505]
+Sample 15
+Take max_iter as  681
+Score of validation 0.87
+Score of training 0.98
+Score of validation (classical) [0.67, 0.81, 0.79, 0.5]
+Score of training (classical) [0.7425, 0.87, 0.8725, 0.495]
+Sample 16
+Take max_iter as  690
+Score of validation 0.85
+Score of training 0.9825
+Score of validation (classical) [0.8, 0.84, 0.81, 0.61]
+Score of training (classical) [0.7325, 0.8675, 0.8575, 0.55]
+Sample 17
+Take max_iter as  682
+Score of validation 0.84
+Score of training 0.9725
+Score of validation (classical) [0.75, 0.82, 0.84, 0.48]
+Score of training (classical) [0.7325, 0.85, 0.85, 0.5475]
+Sample 18
+Take max_iter as  676
+Score of validation 0.87
+Score of training 0.9875
+Score of validation (classical) [0.71, 0.9, 0.88, 0.48]
+Score of training (classical) [0.7425, 0.895, 0.8675, 0.505]
+Sample 19
+Take max_iter as  654
+Score of validation 0.89
+Score of training 0.9775
+Score of validation (classical) [0.73, 0.89, 0.86, 0.54]
+Score of training (classical) [0.785, 0.8675, 0.8625, 0.555]
+Sample 20
+Take max_iter as  691
+Score of validation 0.83
+Score of training 0.975
+Score of validation (classical) [0.79, 0.79, 0.83, 0.58]
+Score of training (classical) [0.7775, 0.9, 0.905, 0.5675]
+Sample 21
+Take max_iter as  662
+Score of validation 0.82
+Score of training 0.9775
+Score of validation (classical) [0.74, 0.84, 0.81, 0.48]
+Score of training (classical) [0.725, 0.87, 0.86, 0.47]
+Sample 22
+Take max_iter as  705
+Score of validation 0.85
+Score of training 0.975
+Score of validation (classical) [0.67, 0.8, 0.77, 0.56]
+Score of training (classical) [0.735, 0.8775, 0.8625, 0.5275]
+Sample 23
+Take max_iter as  714
+Score of validation 0.88
+Score of training 0.975
+Score of validation (classical) [0.75, 0.91, 0.89, 0.49]
+Score of training (classical) [0.7325, 0.88, 0.865, 0.545]
+Sample 24
+Take max_iter as  635
+Score of validation 0.83
+Score of training 0.98
+Score of validation (classical) [0.72, 0.86, 0.86, 0.49]
+Score of training (classical) [0.7375, 0.8975, 0.8775, 0.425]
+Sample 25
+Take max_iter as  694
+Score of validation 0.86
+Score of training 0.975
+Score of validation (classical) [0.75, 0.8, 0.79, 0.58]
+Score of training (classical) [0.785, 0.855, 0.8375, 0.5575]
+Sample 26
+Take max_iter as  709
+Score of validation 0.76
+Score of training 0.9775
+Score of validation (classical) [0.7, 0.82, 0.87, 0.56]
+Score of training (classical) [0.725, 0.8675, 0.8575, 0.47]
+Sample 27
+Take max_iter as  738
+Score of validation 0.87
+Score of training 0.975
+Score of validation (classical) [0.76, 0.87, 0.86, 0.54]
+Score of training (classical) [0.7375, 0.8675, 0.85, 0.5225]
+Sample 28
+Take max_iter as  676
+Score of validation 0.89
+Score of training 0.975
+Score of validation (classical) [0.78, 0.88, 0.87, 0.52]
+Score of training (classical) [0.7575, 0.89, 0.895, 0.5425]
+Sample 29
+Take max_iter as  668
+Score of validation 0.86
+Score of training 0.9775
+Score of validation (classical) [0.65, 0.83, 0.8, 0.43]
+Score of training (classical) [0.7675, 0.8675, 0.87, 0.525]
+Sample 30
+Take max_iter as  705
+Score of validation 0.88
+Score of training 0.985
+Score of validation (classical) [0.7, 0.89, 0.84, 0.59]
+Score of training (classical) [0.7775, 0.885, 0.8675, 0.6275]
+Sample 31
+Take max_iter as  714
+Score of validation 0.87
+Score of training 0.9875
+Score of validation (classical) [0.68, 0.86, 0.87, 0.41]
+Score of training (classical) [0.7375, 0.8475, 0.8725, 0.515]
+Sample 32
+Take max_iter as  734
+Score of validation 0.86
+Score of training 0.9825
+Score of validation (classical) [0.71, 0.87, 0.85, 0.55]
+Score of training (classical) [0.74, 0.8775, 0.8775, 0.5575]
+Sample 33
+Take max_iter as  699
+Score of validation 0.83
+Score of training 0.98
+Score of validation (classical) [0.71, 0.88, 0.82, 0.53]
+Score of training (classical) [0.7375, 0.8675, 0.835, 0.525]
+Sample 34
+Take max_iter as  689
+Score of validation 0.93
+Score of training 0.985
+Score of validation (classical) [0.75, 0.85, 0.83, 0.54]
+Score of training (classical) [0.76, 0.8725, 0.86, 0.5575]
+Sample 35
+Take max_iter as  671
+Score of validation 0.77
+Score of training 0.9675
+Score of validation (classical) [0.67, 0.78, 0.78, 0.6]
+Score of training (classical) [0.745, 0.875, 0.8525, 0.605]
+Sample 36
+Take max_iter as  684
+Score of validation 0.87
+Score of training 0.975
+Score of validation (classical) [0.81, 0.93, 0.91, 0.58]
+Score of training (classical) [0.735, 0.895, 0.87, 0.5125]
+Sample 37
+Take max_iter as  677
+Score of validation 0.89
+Score of training 0.97
+Score of validation (classical) [0.75, 0.88, 0.82, 0.47]
+Score of training (classical) [0.74, 0.8525, 0.8275, 0.5375]
+Sample 38
+Take max_iter as  675
+Score of validation 0.78
+Score of training 0.9725
+Score of validation (classical) [0.73, 0.83, 0.79, 0.54]
+Score of training (classical) [0.7675, 0.89, 0.885, 0.585]
+Sample 39
+Take max_iter as  630
+Score of validation 0.83
+Score of training 0.9775
+Score of validation (classical) [0.67, 0.81, 0.84, 0.48]
+Score of training (classical) [0.7525, 0.8675, 0.8425, 0.5125]
+Sample 40
+Take max_iter as  603
+Score of validation 0.81
+Score of training 0.9675
+Score of validation (classical) [0.7, 0.87, 0.9, 0.48]
+Score of training (classical) [0.74, 0.875, 0.8575, 0.525]
+Sample 41
+Take max_iter as  695
+Score of validation 0.89
+Score of training 0.99
+Score of validation (classical) [0.73, 0.87, 0.86, 0.51]
+Score of training (classical) [0.7625, 0.9125, 0.91, 0.55]
+Sample 42
+Take max_iter as  718
+Score of validation 0.83
+Score of training 0.9725
+Score of validation (classical) [0.72, 0.83, 0.82, 0.48]
+Score of training (classical) [0.72, 0.835, 0.825, 0.51]
+Sample 43
+Take max_iter as  685
+Score of validation 0.88
+Score of training 0.9775
+Score of validation (classical) [0.73, 0.8, 0.83, 0.54]
+Score of training (classical) [0.7225, 0.8725, 0.8475, 0.55]
+Sample 44
+Take max_iter as  700
+Score of validation 0.81
+Score of training 0.975
+Score of validation (classical) [0.71, 0.8, 0.76, 0.46]
+Score of training (classical) [0.755, 0.8575, 0.84, 0.5675]
+Sample 45
+Take max_iter as  726
+Score of validation 0.78
+Score of training 0.97
+Score of validation (classical) [0.74, 0.81, 0.78, 0.54]
+Score of training (classical) [0.7825, 0.8725, 0.855, 0.485]
+Sample 46
+Take max_iter as  692
+Score of validation 0.88
+Score of training 0.98
+Score of validation (classical) [0.65, 0.83, 0.82, 0.45]
+Score of training (classical) [0.74, 0.8675, 0.865, 0.4925]
+Sample 47
+Take max_iter as  710
+Score of validation 0.84
+Score of training 0.985
+Score of validation (classical) [0.69, 0.89, 0.82, 0.48]
+Score of training (classical) [0.7825, 0.9125, 0.9, 0.5025]
+Sample 48
+Take max_iter as  714
+Score of validation 0.9
+Score of training 0.9875
+Score of validation (classical) [0.78, 0.85, 0.87, 0.54]
+Score of training (classical) [0.74, 0.8675, 0.8375, 0.505]
+Sample 49
+Take max_iter as  666
+Score of validation 0.86
+Score of training 0.995
+Score of validation (classical) [0.71, 0.85, 0.83, 0.56]
+Score of training (classical) [0.735, 0.905, 0.8875, 0.56]
+Sample 50
+Take max_iter as  666
+Score of validation 0.93
+Score of training 0.9875
+Score of validation (classical) [0.82, 0.89, 0.89, 0.47]
+Score of training (classical) [0.77, 0.9025, 0.89, 0.46]
+Sample 51
+Take max_iter as  634
+Score of validation 0.9
+Score of training 0.98
+Score of validation (classical) [0.78, 0.88, 0.85, 0.56]
+Score of training (classical) [0.7725, 0.8775, 0.8575, 0.52]
+Sample 52
+Take max_iter as  727
+Score of validation 0.86
+Score of training 0.98
+Score of validation (classical) [0.66, 0.82, 0.82, 0.52]
+Score of training (classical) [0.745, 0.8875, 0.885, 0.5375]
+Sample 53
+Take max_iter as  637
+Score of validation 0.86
+Score of training 0.97
+Score of validation (classical) [0.71, 0.85, 0.85, 0.58]
+Score of training (classical) [0.73, 0.8475, 0.8275, 0.5325]
+Sample 54
+Take max_iter as  689
+Score of validation 0.86
+Score of training 0.99
+Score of validation (classical) [0.67, 0.84, 0.86, 0.52]
+Score of training (classical) [0.7275, 0.8725, 0.855, 0.515]
+Sample 55
+Take max_iter as  713
+Score of validation 0.84
+Score of training 0.9725
+Score of validation (classical) [0.69, 0.84, 0.81, 0.55]
+Score of training (classical) [0.7575, 0.8675, 0.8375, 0.5125]
+Sample 56
+Take max_iter as  712
+Score of validation 0.83
+Score of training 0.975
+Score of validation (classical) [0.72, 0.85, 0.83, 0.51]
+Score of training (classical) [0.7675, 0.86, 0.8525, 0.4925]
+Sample 57
+Take max_iter as  679
+Score of validation 0.81
+Score of training 0.98
+Score of validation (classical) [0.68, 0.83, 0.76, 0.52]
+Score of training (classical) [0.74, 0.8625, 0.84, 0.625]
+Sample 58
+Take max_iter as  670
+Score of validation 0.77
+Score of training 0.97
+Score of validation (classical) [0.64, 0.81, 0.76, 0.56]
+Score of training (classical) [0.71, 0.88, 0.8525, 0.5225]
+Sample 59
+Take max_iter as  661
+Score of validation 0.89
+Score of training 0.975
+Score of validation (classical) [0.78, 0.85, 0.84, 0.54]
+Score of training (classical) [0.7425, 0.855, 0.835, 0.545]
+Sample 60
+Take max_iter as  706
+Score of validation 0.88
+Score of training 0.975
+Score of validation (classical) [0.73, 0.88, 0.84, 0.56]
+Score of training (classical) [0.7425, 0.8425, 0.845, 0.535]
+Sample 61
+Take max_iter as  689
+Score of validation 0.8
+Score of training 0.985
+Score of validation (classical) [0.62, 0.79, 0.83, 0.52]
+Score of training (classical) [0.7375, 0.8925, 0.8875, 0.575]
+Sample 62
+Take max_iter as  779
+Score of validation 0.86
+Score of training 0.9725
+Score of validation (classical) [0.76, 0.88, 0.89, 0.6]
+Score of training (classical) [0.77, 0.89, 0.88, 0.54]
+Sample 63
+Take max_iter as  652
+Score of validation 0.95
+Score of training 0.985
+Score of validation (classical) [0.77, 0.87, 0.9, 0.51]
+Score of training (classical) [0.7675, 0.905, 0.8975, 0.4925]
+Sample 64
+Take max_iter as  686
+Score of validation 0.86
+Score of training 0.9925
+Score of validation (classical) [0.7, 0.89, 0.88, 0.62]
+Score of training (classical) [0.77, 0.9, 0.8775, 0.635]
+Sample 65
+Take max_iter as  688
+Score of validation 0.86
+Score of training 0.985
+Score of validation (classical) [0.76, 0.87, 0.87, 0.48]
+Score of training (classical) [0.7475, 0.91, 0.9, 0.4725]
+Sample 66
+Take max_iter as  668
+Score of validation 0.86
+Score of training 0.985
+Score of validation (classical) [0.69, 0.92, 0.89, 0.47]
+Score of training (classical) [0.7275, 0.8875, 0.8525, 0.5225]
+Sample 67
+Take max_iter as  672
+Score of validation 0.76
+Score of training 0.9775
+Score of validation (classical) [0.77, 0.85, 0.86, 0.62]
+Score of training (classical) [0.745, 0.88, 0.8725, 0.485]
+Sample 68
+Take max_iter as  628
+Score of validation 0.82
+Score of training 0.965
+Score of validation (classical) [0.69, 0.78, 0.78, 0.51]
+Score of training (classical) [0.745, 0.8675, 0.8225, 0.535]
+Sample 69
+Take max_iter as  677
+Score of validation 0.8
+Score of training 0.98
+Score of validation (classical) [0.66, 0.79, 0.76, 0.53]
+Score of training (classical) [0.74, 0.86, 0.8325, 0.5725]
+Sample 70
+Take max_iter as  667
+Score of validation 0.87
+Score of training 0.9725
+Score of validation (classical) [0.76, 0.85, 0.85, 0.48]
+Score of training (classical) [0.705, 0.885, 0.8675, 0.5375]
+Sample 71
+Take max_iter as  703
+Score of validation 0.82
+Score of training 0.98
+Score of validation (classical) [0.71, 0.85, 0.84, 0.63]
+Score of training (classical) [0.775, 0.88, 0.875, 0.585]
+Sample 72
+Take max_iter as  753
+Score of validation 0.83
+Score of training 0.9725
+Score of validation (classical) [0.71, 0.85, 0.85, 0.6]
+Score of training (classical) [0.755, 0.88, 0.87, 0.605]
+Sample 73
+Take max_iter as  690
+Score of validation 0.85
+Score of training 0.9775
+Score of validation (classical) [0.66, 0.87, 0.84, 0.53]
+Score of training (classical) [0.745, 0.87, 0.85, 0.4925]
+Sample 74
+Take max_iter as  691
+Score of validation 0.86
+Score of training 0.98
+Score of validation (classical) [0.72, 0.81, 0.82, 0.54]
+Score of training (classical) [0.775, 0.8875, 0.8825, 0.505]
+Sample 75
+Take max_iter as  674
+Score of validation 0.86
+Score of training 0.995
+Score of validation (classical) [0.73, 0.85, 0.84, 0.57]
+Score of training (classical) [0.76, 0.87, 0.8675, 0.51]
+Sample 76
+Take max_iter as  658
+Score of validation 0.84
+Score of training 0.9625
+Score of validation (classical) [0.78, 0.84, 0.84, 0.59]
+Score of training (classical) [0.7575, 0.8775, 0.87, 0.51]
+Sample 77
+Take max_iter as  687
+Score of validation 0.79
+Score of training 0.9775
+Score of validation (classical) [0.71, 0.8, 0.82, 0.49]
+Score of training (classical) [0.725, 0.86, 0.8475, 0.485]
+Sample 78
+Take max_iter as  710
+Score of validation 0.82
+Score of training 0.9825
+Score of validation (classical) [0.77, 0.88, 0.84, 0.6]
+Score of training (classical) [0.78, 0.88, 0.84, 0.62]
+Sample 79
+Take max_iter as  623
+Score of validation 0.83
+Score of training 0.9725
+Score of validation (classical) [0.75, 0.83, 0.84, 0.48]
+Score of training (classical) [0.7325, 0.8925, 0.87, 0.485]
+Sample 80
+Take max_iter as  637
+Score of validation 0.85
+Score of training 0.9775
+Score of validation (classical) [0.71, 0.81, 0.81, 0.47]
+Score of training (classical) [0.7625, 0.88, 0.885, 0.5425]
+Sample 81
+Take max_iter as  687
+Score of validation 0.87
+Score of training 0.9875
+Score of validation (classical) [0.65, 0.84, 0.77, 0.5]
+Score of training (classical) [0.7375, 0.895, 0.8825, 0.4975]
+Sample 82
+Take max_iter as  709
+Score of validation 0.81
+Score of training 0.9825
+Score of validation (classical) [0.7, 0.82, 0.82, 0.56]
+Score of training (classical) [0.7325, 0.8975, 0.885, 0.5475]
+Sample 83
+Take max_iter as  691
+Score of validation 0.85
+Score of training 0.98
+Score of validation (classical) [0.74, 0.81, 0.83, 0.57]
+Score of training (classical) [0.76, 0.8725, 0.87, 0.4875]
+Sample 84
+Take max_iter as  622
+Score of validation 0.88
+Score of training 0.97
+Score of validation (classical) [0.81, 0.86, 0.91, 0.59]
+Score of training (classical) [0.7725, 0.8725, 0.8575, 0.5375]
+Sample 85
+Take max_iter as  632
+Score of validation 0.81
+Score of training 0.97
+Score of validation (classical) [0.74, 0.86, 0.87, 0.49]
+Score of training (classical) [0.76, 0.875, 0.86, 0.5225]
+Sample 86
+Take max_iter as  678
+Score of validation 0.81
+Score of training 0.98
+Score of validation (classical) [0.73, 0.84, 0.78, 0.57]
+Score of training (classical) [0.745, 0.88, 0.85, 0.6075]
+Sample 87
+Take max_iter as  701
+Score of validation 0.84
+Score of training 0.9825
+Score of validation (classical) [0.7, 0.86, 0.84, 0.59]
+Score of training (classical) [0.76, 0.875, 0.8475, 0.625]
+Sample 88
+Take max_iter as  668
+Score of validation 0.78
+Score of training 0.98
+Score of validation (classical) [0.68, 0.78, 0.77, 0.55]
+Score of training (classical) [0.7425, 0.845, 0.825, 0.4575]
+Sample 89
+Take max_iter as  666
+Score of validation 0.83
+Score of training 0.9825
+Score of validation (classical) [0.71, 0.86, 0.81, 0.54]
+Score of training (classical) [0.765, 0.8825, 0.86, 0.5575]
+Sample 90
+Take max_iter as  681
+Score of validation 0.8
+Score of training 0.9825
+Score of validation (classical) [0.7, 0.84, 0.83, 0.62]
+Score of training (classical) [0.7425, 0.865, 0.865, 0.635]
+Sample 91
+Take max_iter as  744
+Score of validation 0.85
+Score of training 0.985
+Score of validation (classical) [0.8, 0.74, 0.8, 0.47]
+Score of training (classical) [0.7775, 0.8575, 0.8625, 0.5175]
+Sample 92
+Take max_iter as  649
+Score of validation 0.86
+Score of training 0.9875
+Score of validation (classical) [0.71, 0.9, 0.87, 0.56]
+Score of training (classical) [0.72, 0.8925, 0.88, 0.505]
+Sample 93
+Take max_iter as  703
+Score of validation 0.82
+Score of training 0.9775
+Score of validation (classical) [0.74, 0.9, 0.86, 0.59]
+Score of training (classical) [0.7475, 0.9075, 0.89, 0.5425]
+Sample 94
+Take max_iter as  719
+Score of validation 0.82
+Score of training 0.98
+Score of validation (classical) [0.72, 0.87, 0.9, 0.51]
+Score of training (classical) [0.7275, 0.9175, 0.905, 0.4475]
+Sample 95
+Take max_iter as  675
+Score of validation 0.86
+Score of training 0.9725
+Score of validation (classical) [0.79, 0.89, 0.91, 0.57]
+Score of training (classical) [0.7575, 0.88, 0.875, 0.57]
+Sample 96
+Take max_iter as  705
+Score of validation 0.8
+Score of training 0.985
+Score of validation (classical) [0.74, 0.81, 0.84, 0.59]
+Score of training (classical) [0.72, 0.8675, 0.8425, 0.4775]
+Sample 97
+Take max_iter as  656
+Score of validation 0.86
+Score of training 0.985
+Score of validation (classical) [0.75, 0.84, 0.82, 0.6]
+Score of training (classical) [0.7675, 0.9075, 0.8775, 0.54]
+Sample 98
+Take max_iter as  666
+Score of validation 0.83
+Score of training 0.9825
+Score of validation (classical) [0.72, 0.83, 0.82, 0.51]
+Score of training (classical) [0.76, 0.85, 0.85, 0.565]
+Sample 99
+Take max_iter as  705
+Score of validation 0.83
+Score of training 0.9875
+Score of validation (classical) [0.7, 0.86, 0.84, 0.54]
+Score of training (classical) [0.7575, 0.9, 0.895, 0.6275]
+Sample 100
+Take max_iter as  642
+Score of validation 0.82
+Score of training 0.965
+Score of validation (classical) [0.71, 0.87, 0.85, 0.66]
+Score of training (classical) [0.705, 0.8725, 0.8625, 0.565]
+Sample 101
+Take max_iter as  694
+Score of validation 0.89
+Score of training 0.9675
+Score of validation (classical) [0.74, 0.89, 0.85, 0.68]
+Score of training (classical) [0.78, 0.875, 0.865, 0.6375]
+Sample 102
+Take max_iter as  630
+Score of validation 0.84
+Score of training 0.9825
+Score of validation (classical) [0.75, 0.82, 0.79, 0.59]
+Score of training (classical) [0.75, 0.8625, 0.8475, 0.5475]
+Sample 103
+Take max_iter as  698
+Score of validation 0.81
+Score of training 0.9675
+Score of validation (classical) [0.78, 0.91, 0.9, 0.58]
+Score of training (classical) [0.7325, 0.875, 0.8525, 0.555]
+Sample 104
+Take max_iter as  681
+Score of validation 0.86
+Score of training 0.9775
+Score of validation (classical) [0.73, 0.83, 0.78, 0.55]
+Score of training (classical) [0.7475, 0.87, 0.85, 0.565]
+Sample 105
+Take max_iter as  668
+Score of validation 0.83
+Score of training 0.9775
+Score of validation (classical) [0.67, 0.79, 0.75, 0.4]
+Score of training (classical) [0.7325, 0.855, 0.84, 0.555]
+Sample 106
+Take max_iter as  699
+Score of validation 0.85
+Score of training 0.9675
+Score of validation (classical) [0.72, 0.88, 0.85, 0.53]
+Score of training (classical) [0.7325, 0.8675, 0.8425, 0.5025]
+Sample 107
+Take max_iter as  754
+Score of validation 0.84
+Score of training 0.98
+Score of validation (classical) [0.81, 0.88, 0.88, 0.52]
+Score of training (classical) [0.7525, 0.885, 0.87, 0.47]
+Sample 108
+Take max_iter as  720
+Score of validation 0.8
+Score of training 0.985
+Score of validation (classical) [0.69, 0.89, 0.87, 0.53]
+Score of training (classical) [0.745, 0.92, 0.9025, 0.4875]
+Sample 109
+Take max_iter as  654
+Score of validation 0.8
+Score of training 0.985
+Score of validation (classical) [0.8, 0.81, 0.82, 0.5]
+Score of training (classical) [0.7625, 0.8925, 0.8675, 0.535]
+Sample 110
+Take max_iter as  669
+Score of validation 0.86
+Score of training 0.98
+Score of validation (classical) [0.72, 0.78, 0.76, 0.58]
+Score of training (classical) [0.75, 0.9, 0.8875, 0.6025]
+Sample 111
+Take max_iter as  678
+Score of validation 0.85
+Score of training 0.9825
+Score of validation (classical) [0.7, 0.8, 0.81, 0.56]
+Score of training (classical) [0.755, 0.905, 0.895, 0.46]
+Sample 112
+Take max_iter as  665
+Score of validation 0.84
+Score of training 0.9725
+Score of validation (classical) [0.67, 0.85, 0.79, 0.58]
+Score of training (classical) [0.75, 0.87, 0.83, 0.6125]
+Sample 113
+Take max_iter as  644
+Score of validation 0.88
+Score of training 0.98
+Score of validation (classical) [0.73, 0.87, 0.88, 0.48]
+Score of training (classical) [0.735, 0.885, 0.87, 0.525]
+Sample 114
+Take max_iter as  764
+Score of validation 0.8
+Score of training 0.975
+Score of validation (classical) [0.7, 0.84, 0.83, 0.46]
+Score of training (classical) [0.7575, 0.89, 0.8725, 0.55]
+Sample 115
+Take max_iter as  713
+Score of validation 0.82
+Score of training 0.9925
+Score of validation (classical) [0.72, 0.81, 0.81, 0.4]
+Score of training (classical) [0.75, 0.925, 0.9125, 0.515]
+Sample 116
+Take max_iter as  670
+Score of validation 0.85
+Score of training 0.9825
+Score of validation (classical) [0.69, 0.9, 0.88, 0.61]
+Score of training (classical) [0.745, 0.8525, 0.835, 0.61]
+Sample 117
+Take max_iter as  688
+Score of validation 0.84
+Score of training 0.9875
+Score of validation (classical) [0.68, 0.85, 0.8, 0.49]
+Score of training (classical) [0.735, 0.875, 0.855, 0.505]
+Sample 118
+Take max_iter as  663
+Score of validation 0.79
+Score of training 0.97
+Score of validation (classical) [0.71, 0.82, 0.83, 0.49]
+Score of training (classical) [0.775, 0.88, 0.8475, 0.53]
+Sample 119
+Take max_iter as  620
+Score of validation 0.82
+Score of training 0.9825
+Score of validation (classical) [0.66, 0.82, 0.8, 0.49]
+Score of training (classical) [0.715, 0.88, 0.8625, 0.5475]
+Sample 120
+Take max_iter as  683
+Score of validation 0.84
+Score of training 0.98
+Score of validation (classical) [0.73, 0.84, 0.83, 0.5]
+Score of training (classical) [0.725, 0.855, 0.8825, 0.4975]
+Sample 121
+Take max_iter as  717
+Score of validation 0.86
+Score of training 0.9825
+Score of validation (classical) [0.73, 0.84, 0.83, 0.52]
+Score of training (classical) [0.73, 0.8725, 0.89, 0.5125]
+Sample 122
+Take max_iter as  663
+Score of validation 0.84
+Score of training 0.995
+Score of validation (classical) [0.66, 0.8, 0.75, 0.57]
+Score of training (classical) [0.735, 0.89, 0.885, 0.47]
+Sample 123
+Take max_iter as  705
+Score of validation 0.92
+Score of training 0.98
+Score of validation (classical) [0.78, 0.89, 0.88, 0.52]
+Score of training (classical) [0.72, 0.8825, 0.86, 0.4925]
+Sample 124
+Take max_iter as  743
+Score of validation 0.81
+Score of training 0.985
+Score of validation (classical) [0.77, 0.83, 0.81, 0.54]
+Score of training (classical) [0.735, 0.8775, 0.8825, 0.5125]
+Sample 125
+Take max_iter as  691
+Score of validation 0.8
+Score of training 0.975
+Score of validation (classical) [0.71, 0.8, 0.81, 0.52]
+Score of training (classical) [0.7025, 0.8475, 0.835, 0.5025]
+Sample 126
+Take max_iter as  680
+Score of validation 0.9
+Score of training 0.9575
+Score of validation (classical) [0.74, 0.84, 0.85, 0.56]
+Score of training (classical) [0.7625, 0.865, 0.84, 0.535]
+Sample 127
+Take max_iter as  657
+Score of validation 0.88
+Score of training 0.9675
+Score of validation (classical) [0.78, 0.86, 0.84, 0.61]
+Score of training (classical) [0.735, 0.895, 0.8625, 0.5425]
+Sample 128
+Take max_iter as  669
+Score of validation 0.86
+Score of training 0.9925
+Score of validation (classical) [0.76, 0.9, 0.88, 0.64]
+Score of training (classical) [0.725, 0.885, 0.8725, 0.5875]
+Sample 129
+Take max_iter as  674
+Score of validation 0.87
+Score of training 0.965
+Score of validation (classical) [0.73, 0.85, 0.82, 0.62]
+Score of training (classical) [0.7375, 0.8325, 0.82, 0.5725]
+Sample 130
+Take max_iter as  727
+Score of validation 0.82
+Score of training 0.985
+Score of validation (classical) [0.75, 0.8, 0.79, 0.58]
+Score of training (classical) [0.7675, 0.8875, 0.8725, 0.5125]
+Sample 131
+Take max_iter as  699
+Score of validation 0.83
+Score of training 0.9725
+Score of validation (classical) [0.75, 0.87, 0.86, 0.48]
+Score of training (classical) [0.7225, 0.8725, 0.8475, 0.455]
+Sample 132
+Take max_iter as  722
+Score of validation 0.85
+Score of training 0.985
+Score of validation (classical) [0.68, 0.83, 0.85, 0.56]
+Score of training (classical) [0.755, 0.8875, 0.8825, 0.5725]
+Sample 133
+Take max_iter as  681
+Score of validation 0.82
+Score of training 0.98
+Score of validation (classical) [0.65, 0.77, 0.73, 0.54]
+Score of training (classical) [0.7475, 0.84, 0.8275, 0.5875]
+Sample 134
+Take max_iter as  745
+Score of validation 0.86
+Score of training 0.9725
+Score of validation (classical) [0.7, 0.79, 0.82, 0.53]
+Score of training (classical) [0.7325, 0.865, 0.8525, 0.5475]
+Sample 135
+Take max_iter as  702
+Score of validation 0.87
+Score of training 0.96
+Score of validation (classical) [0.78, 0.87, 0.83, 0.59]
+Score of training (classical) [0.775, 0.8875, 0.8625, 0.555]
+Sample 136
+Take max_iter as  669
+Score of validation 0.79
+Score of training 0.98
+Score of validation (classical) [0.66, 0.75, 0.76, 0.5]
+Score of training (classical) [0.7675, 0.87, 0.8525, 0.64]
+Sample 137
+Take max_iter as  681
+Score of validation 0.87
+Score of training 0.9825
+Score of validation (classical) [0.78, 0.86, 0.87, 0.48]
+Score of training (classical) [0.7475, 0.88, 0.8775, 0.515]
+Sample 138
+Take max_iter as  727
+Score of validation 0.82
+Score of training 0.9825
+Score of validation (classical) [0.7, 0.83, 0.85, 0.51]
+Score of training (classical) [0.745, 0.8825, 0.8925, 0.5025]
+Sample 139
+Take max_iter as  665
+Score of validation 0.88
+Score of training 0.9875
+Score of validation (classical) [0.8, 0.93, 0.92, 0.55]
+Score of training (classical) [0.7325, 0.9175, 0.9025, 0.5175]
+Sample 140
+Take max_iter as  632
+Score of validation 0.84
+Score of training 0.9825
+Score of validation (classical) [0.73, 0.83, 0.83, 0.57]
+Score of training (classical) [0.7625, 0.865, 0.8525, 0.46]
+Sample 141
+Take max_iter as  658
+Score of validation 0.85
+Score of training 0.98
+Score of validation (classical) [0.73, 0.85, 0.84, 0.6]
+Score of training (classical) [0.76, 0.8825, 0.84, 0.495]
+Sample 142
+Take max_iter as  742
+Score of validation 0.88
+Score of training 0.99
+Score of validation (classical) [0.71, 0.86, 0.85, 0.52]
+Score of training (classical) [0.7525, 0.8975, 0.875, 0.5575]
+Sample 143
+Take max_iter as  709
+Score of validation 0.84
+Score of training 0.985
+Score of validation (classical) [0.8, 0.84, 0.85, 0.6]
+Score of training (classical) [0.7175, 0.86, 0.825, 0.49]
+Sample 144
+Take max_iter as  687
+Score of validation 0.88
+Score of training 0.9875
+Score of validation (classical) [0.72, 0.87, 0.86, 0.38]
+Score of training (classical) [0.73, 0.8925, 0.8575, 0.485]
+Sample 145
+Take max_iter as  776
+Score of validation 0.82
+Score of training 0.9675
+Score of validation (classical) [0.74, 0.87, 0.86, 0.51]
+Score of training (classical) [0.72, 0.8575, 0.8375, 0.5275]
+Sample 146
+Take max_iter as  664
+Score of validation 0.89
+Score of training 0.9825
+Score of validation (classical) [0.79, 0.92, 0.92, 0.61]
+Score of training (classical) [0.7325, 0.87, 0.8575, 0.485]
+Sample 147
+Take max_iter as  748
+Score of validation 0.9
+Score of training 0.9775
+Score of validation (classical) [0.67, 0.81, 0.8, 0.41]
+Score of training (classical) [0.725, 0.8625, 0.8575, 0.49]
+Sample 148
+Take max_iter as  779
+Score of validation 0.82
+Score of training 0.985
+Score of validation (classical) [0.69, 0.83, 0.86, 0.54]
+Score of training (classical) [0.74, 0.91, 0.91, 0.59]
+Sample 149
+Take max_iter as  675
+Score of validation 0.9
+Score of training 0.98
+Score of validation (classical) [0.64, 0.82, 0.82, 0.49]
+Score of training (classical) [0.7325, 0.895, 0.89, 0.525]
+Sample 150
+Take max_iter as  695
+Score of validation 0.87
+Score of training 0.9725
+Score of validation (classical) [0.65, 0.86, 0.83, 0.56]
+Score of training (classical) [0.72, 0.875, 0.8375, 0.5575]
+Sample 151
+Take max_iter as  708
+Score of validation 0.81
+Score of training 0.99
+Score of validation (classical) [0.66, 0.78, 0.83, 0.53]
+Score of training (classical) [0.7675, 0.8725, 0.855, 0.5825]
+Sample 152
+Take max_iter as  774
+Score of validation 0.83
+Score of training 0.99
+Score of validation (classical) [0.75, 0.79, 0.8, 0.5]
+Score of training (classical) [0.74, 0.875, 0.8875, 0.485]
+Sample 153
+Take max_iter as  728
+Score of validation 0.78
+Score of training 0.9775
+Score of validation (classical) [0.68, 0.82, 0.81, 0.43]
+Score of training (classical) [0.7175, 0.865, 0.8525, 0.445]
+Sample 154
+Take max_iter as  710
+Score of validation 0.79
+Score of training 0.97
+Score of validation (classical) [0.72, 0.87, 0.82, 0.51]
+Score of training (classical) [0.74, 0.885, 0.855, 0.4825]
+Sample 155
+Take max_iter as  706
+Score of validation 0.88
+Score of training 0.985
+Score of validation (classical) [0.78, 0.87, 0.89, 0.68]
+Score of training (classical) [0.7425, 0.875, 0.85, 0.5825]
+Sample 156
+Take max_iter as  668
+Score of validation 0.85
+Score of training 0.9725
+Score of validation (classical) [0.74, 0.91, 0.86, 0.62]
+Score of training (classical) [0.7375, 0.885, 0.865, 0.5825]
+Sample 157
+Take max_iter as  733
+Score of validation 0.86
+Score of training 0.99
+Score of validation (classical) [0.76, 0.86, 0.84, 0.58]
+Score of training (classical) [0.7925, 0.895, 0.8725, 0.525]
+Sample 158
+Take max_iter as  772
+Score of validation 0.9
+Score of training 0.98
+Score of validation (classical) [0.71, 0.84, 0.79, 0.62]
+Score of training (classical) [0.7625, 0.885, 0.86, 0.615]
+Sample 159
+Take max_iter as  673
+Score of validation 0.73
+Score of training 0.975
+Score of validation (classical) [0.71, 0.84, 0.8, 0.52]
+Score of training (classical) [0.75, 0.89, 0.89, 0.5175]
+Sample 160
+Take max_iter as  651
+Score of validation 0.86
+Score of training 0.98
+Score of validation (classical) [0.74, 0.84, 0.8, 0.59]
+Score of training (classical) [0.755, 0.87, 0.845, 0.5075]
+Sample 161
+Take max_iter as  730
+Score of validation 0.8
+Score of training 0.9875
+Score of validation (classical) [0.75, 0.83, 0.82, 0.6]
+Score of training (classical) [0.73, 0.9025, 0.8875, 0.5425]
+Sample 162
+Take max_iter as  701
+Score of validation 0.87
+Score of training 0.98
+Score of validation (classical) [0.74, 0.84, 0.83, 0.48]
+Score of training (classical) [0.715, 0.8675, 0.8475, 0.435]
+Sample 163
+Take max_iter as  723
+Score of validation 0.85
+Score of training 0.9725
+Score of validation (classical) [0.69, 0.86, 0.83, 0.58]
+Score of training (classical) [0.74, 0.8675, 0.8525, 0.59]
+Sample 164
+Take max_iter as  648
+Score of validation 0.85
+Score of training 0.9725
+Score of validation (classical) [0.67, 0.75, 0.76, 0.6]
+Score of training (classical) [0.7475, 0.865, 0.8425, 0.5975]
+Sample 165
+Take max_iter as  684
+Score of validation 0.89
+Score of training 0.975
+Score of validation (classical) [0.72, 0.9, 0.9, 0.59]
+Score of training (classical) [0.7425, 0.92, 0.8975, 0.5125]
+Sample 166
+Take max_iter as  669
+Score of validation 0.86
+Score of training 0.9825
+Score of validation (classical) [0.73, 0.85, 0.81, 0.5]
+Score of training (classical) [0.695, 0.8725, 0.8475, 0.46]
+Sample 167
+Take max_iter as  649
+Score of validation 0.84
+Score of training 0.98
+Score of validation (classical) [0.71, 0.84, 0.84, 0.53]
+Score of training (classical) [0.735, 0.8575, 0.86, 0.51]
+Sample 168
+Take max_iter as  685
+Score of validation 0.9
+Score of training 0.98
+Score of validation (classical) [0.81, 0.91, 0.9, 0.6]
+Score of training (classical) [0.7525, 0.8825, 0.8675, 0.5275]
+Sample 169
+Take max_iter as  726
+Score of validation 0.84
+Score of training 0.9875
+Score of validation (classical) [0.7, 0.83, 0.84, 0.5]
+Score of training (classical) [0.755, 0.8825, 0.8875, 0.4775]
+Sample 170
+Take max_iter as  678
+Score of validation 0.82
+Score of training 0.9875
+Score of validation (classical) [0.7, 0.84, 0.84, 0.44]
+Score of training (classical) [0.71, 0.8775, 0.8775, 0.54]
+Sample 171
+Take max_iter as  721
+Score of validation 0.81
+Score of training 0.9825
+Score of validation (classical) [0.72, 0.81, 0.84, 0.5]
+Score of training (classical) [0.755, 0.89, 0.885, 0.5325]
+Sample 172
+Take max_iter as  722
+Score of validation 0.86
+Score of training 0.98
+Score of validation (classical) [0.73, 0.84, 0.9, 0.48]
+Score of training (classical) [0.7225, 0.8575, 0.8475, 0.5275]
+Sample 173
+Take max_iter as  701
+Score of validation 0.87
+Score of training 0.975
+Score of validation (classical) [0.73, 0.85, 0.85, 0.54]
+Score of training (classical) [0.765, 0.885, 0.87, 0.51]
+Sample 174
+Take max_iter as  740
+Score of validation 0.87
+Score of training 0.985
+Score of validation (classical) [0.64, 0.8, 0.83, 0.5]
+Score of training (classical) [0.74, 0.8675, 0.86, 0.525]
+Sample 175
+Take max_iter as  754
+Score of validation 0.88
+Score of training 0.9625
+Score of validation (classical) [0.7, 0.83, 0.81, 0.62]
+Score of training (classical) [0.73, 0.875, 0.86, 0.55]
+Sample 176
+Take max_iter as  648
+Score of validation 0.82
+Score of training 0.99
+Score of validation (classical) [0.73, 0.9, 0.86, 0.52]
+Score of training (classical) [0.74, 0.9, 0.885, 0.51]
+Sample 177
+Take max_iter as  634
+Score of validation 0.85
+Score of training 0.9725
+Score of validation (classical) [0.73, 0.82, 0.78, 0.56]
+Score of training (classical) [0.7325, 0.8725, 0.86, 0.5025]
+Sample 178
+Take max_iter as  717
+Score of validation 0.79
+Score of training 0.9775
+Score of validation (classical) [0.76, 0.85, 0.81, 0.48]
+Score of training (classical) [0.7225, 0.85, 0.8375, 0.49]
+Sample 179
+Take max_iter as  688
+Score of validation 0.86
+Score of training 0.9825
+Score of validation (classical) [0.75, 0.91, 0.88, 0.53]
+Score of training (classical) [0.76, 0.8825, 0.8725, 0.535]
+Sample 180
+Take max_iter as  712
+Score of validation 0.88
+Score of training 0.975
+Score of validation (classical) [0.72, 0.91, 0.92, 0.56]
+Score of training (classical) [0.7125, 0.8575, 0.855, 0.5025]
+Sample 181
+Take max_iter as  683
+Score of validation 0.82
+Score of training 0.975
+Score of validation (classical) [0.78, 0.87, 0.88, 0.57]
+Score of training (classical) [0.7325, 0.86, 0.855, 0.5075]
+Sample 182
+Take max_iter as  673
+Score of validation 0.84
+Score of training 0.9875
+Score of validation (classical) [0.65, 0.81, 0.76, 0.36]
+Score of training (classical) [0.74, 0.89, 0.8725, 0.48]
+Sample 183
+Take max_iter as  754
+Score of validation 0.83
+Score of training 0.965
+Score of validation (classical) [0.72, 0.89, 0.87, 0.53]
+Score of training (classical) [0.7225, 0.86, 0.8475, 0.515]
+Sample 184
+Take max_iter as  655
+Score of validation 0.9
+Score of training 0.9725
+Score of validation (classical) [0.72, 0.78, 0.78, 0.51]
+Score of training (classical) [0.745, 0.8675, 0.8575, 0.56]
+Sample 185
+Take max_iter as  676
+Score of validation 0.85
+Score of training 0.9675
+Score of validation (classical) [0.69, 0.8, 0.81, 0.57]
+Score of training (classical) [0.7625, 0.8825, 0.87, 0.6225]
+Sample 186
+Take max_iter as  751
+Score of validation 0.83
+Score of training 0.98
+Score of validation (classical) [0.71, 0.84, 0.84, 0.54]
+Score of training (classical) [0.78, 0.895, 0.9025, 0.535]
+Sample 187
+Take max_iter as  720
+Score of validation 0.86
+Score of training 0.9825
+Score of validation (classical) [0.76, 0.83, 0.83, 0.56]
+Score of training (classical) [0.725, 0.88, 0.855, 0.55]
+Sample 188
+Take max_iter as  719
+Score of validation 0.84
+Score of training 0.9825
+Score of validation (classical) [0.69, 0.88, 0.83, 0.47]
+Score of training (classical) [0.7275, 0.8575, 0.855, 0.555]
+Sample 189
+Take max_iter as  699
+Score of validation 0.87
+Score of training 0.98
+Score of validation (classical) [0.78, 0.84, 0.86, 0.62]
+Score of training (classical) [0.745, 0.88, 0.8725, 0.53]
+Sample 190
+Take max_iter as  662
+Score of validation 0.87
+Score of training 0.97
+Score of validation (classical) [0.74, 0.9, 0.85, 0.45]
+Score of training (classical) [0.7925, 0.88, 0.8525, 0.51]
+Sample 191
+Take max_iter as  742
+Score of validation 0.78
+Score of training 0.985
+Score of validation (classical) [0.73, 0.81, 0.81, 0.56]
+Score of training (classical) [0.7525, 0.86, 0.8525, 0.5025]
+Sample 192
+Take max_iter as  742
+Score of validation 0.9
+Score of training 0.98
+Score of validation (classical) [0.74, 0.86, 0.85, 0.51]
+Score of training (classical) [0.7125, 0.8975, 0.895, 0.5175]
+Sample 193
+Take max_iter as  685
+Score of validation 0.81
+Score of training 0.9775
+Score of validation (classical) [0.71, 0.79, 0.79, 0.54]
+Score of training (classical) [0.74, 0.87, 0.86, 0.5775]
+Sample 194
+Take max_iter as  643
+Score of validation 0.78
+Score of training 0.97
+Score of validation (classical) [0.77, 0.88, 0.84, 0.58]
+Score of training (classical) [0.75, 0.8825, 0.8675, 0.5875]
+Sample 195
+Take max_iter as  761
+Score of validation 0.89
+Score of training 0.98
+Score of validation (classical) [0.75, 0.83, 0.85, 0.5]
+Score of training (classical) [0.75, 0.875, 0.875, 0.47]
+Sample 196
+Take max_iter as  728
+Score of validation 0.84
+Score of training 0.975
+Score of validation (classical) [0.75, 0.86, 0.88, 0.57]
+Score of training (classical) [0.7625, 0.8875, 0.88, 0.52]
+Sample 197
+Take max_iter as  673
+Score of validation 0.82
+Score of training 0.99
+Score of validation (classical) [0.62, 0.75, 0.76, 0.5]
+Score of training (classical) [0.7825, 0.9175, 0.885, 0.4775]
+Sample 198
+Take max_iter as  733
+Score of validation 0.83
+Score of training 0.9875
+Score of validation (classical) [0.67, 0.82, 0.83, 0.44]
+Score of training (classical) [0.7725, 0.89, 0.86, 0.5475]
+Sample 199
+Take max_iter as  664
+Score of validation 0.87
+Score of training 0.985
+Score of validation (classical) [0.71, 0.91, 0.87, 0.53]
+Score of training (classical) [0.745, 0.89, 0.875, 0.5675]
+Sample 200
+Take max_iter as  671
+Score of validation 0.82
+Score of training 0.9775
+Score of validation (classical) [0.82, 0.81, 0.82, 0.5]
+Score of training (classical) [0.7025, 0.86, 0.84, 0.4725]
+Sample 201
+Take max_iter as  597
+Score of validation 0.86
+Score of training 0.9775
+Score of validation (classical) [0.71, 0.89, 0.86, 0.52]
+Score of training (classical) [0.715, 0.8625, 0.8575, 0.5125]
+Sample 202
+Take max_iter as  683
+Score of validation 0.88
+Score of training 0.9775
+Score of validation (classical) [0.71, 0.83, 0.83, 0.45]
+Score of training (classical) [0.7175, 0.8775, 0.8825, 0.5025]
+Sample 203
+Take max_iter as  685
+Score of validation 0.92
+Score of training 0.9725
+Score of validation (classical) [0.77, 0.88, 0.86, 0.39]
+Score of training (classical) [0.7325, 0.8625, 0.8325, 0.48]
+Sample 204
+Take max_iter as  701
+Score of validation 0.78
+Score of training 0.9875
+Score of validation (classical) [0.79, 0.83, 0.81, 0.59]
+Score of training (classical) [0.77, 0.9025, 0.875, 0.5725]
+Sample 205
+Take max_iter as  722
+Score of validation 0.83
+Score of training 0.9725
+Score of validation (classical) [0.72, 0.75, 0.77, 0.54]
+Score of training (classical) [0.75, 0.8875, 0.89, 0.5025]
+Sample 206
+Take max_iter as  663
+Score of validation 0.87
+Score of training 0.985
+Score of validation (classical) [0.76, 0.86, 0.83, 0.58]
+Score of training (classical) [0.745, 0.855, 0.8325, 0.5475]
+Sample 207
+Take max_iter as  638
+Score of validation 0.83
+Score of training 0.9725
+Score of validation (classical) [0.62, 0.8, 0.78, 0.51]
+Score of training (classical) [0.7325, 0.895, 0.8775, 0.605]
+Sample 208
+Take max_iter as  682
+Score of validation 0.86
+Score of training 0.97
+Score of validation (classical) [0.75, 0.87, 0.83, 0.61]
+Score of training (classical) [0.7475, 0.8525, 0.835, 0.535]
+Sample 209
+Take max_iter as  720
+Score of validation 0.81
+Score of training 0.9725
+Score of validation (classical) [0.74, 0.86, 0.86, 0.54]
+Score of training (classical) [0.7625, 0.855, 0.8575, 0.5425]
+Sample 210
+Take max_iter as  690
+Score of validation 0.84
+Score of training 0.98
+Score of validation (classical) [0.81, 0.88, 0.88, 0.55]
+Score of training (classical) [0.7625, 0.8975, 0.8775, 0.52]
+Sample 211
+Take max_iter as  700
+Score of validation 0.8
+Score of training 0.98
+Score of validation (classical) [0.72, 0.86, 0.85, 0.58]
+Score of training (classical) [0.75, 0.845, 0.8475, 0.5375]
+Sample 212
+Take max_iter as  724
+Score of validation 0.85
+Score of training 0.9825
+Score of validation (classical) [0.65, 0.82, 0.79, 0.43]
+Score of training (classical) [0.7675, 0.8925, 0.885, 0.5225]
+Sample 213
+Take max_iter as  635
+Score of validation 0.83
+Score of training 0.985
+Score of validation (classical) [0.65, 0.82, 0.77, 0.55]
+Score of training (classical) [0.7275, 0.87, 0.8575, 0.5025]
+Sample 214
+Take max_iter as  724
+Score of validation 0.9
+Score of training 0.98
+Score of validation (classical) [0.7, 0.86, 0.83, 0.44]
+Score of training (classical) [0.75, 0.895, 0.89, 0.455]
+Sample 215
+Take max_iter as  670
+Score of validation 0.85
+Score of training 0.98
+Score of validation (classical) [0.74, 0.87, 0.83, 0.64]
+Score of training (classical) [0.7425, 0.8675, 0.8525, 0.5225]
+Sample 216
+Take max_iter as  693
+Score of validation 0.84
+Score of training 0.9775
+Score of validation (classical) [0.77, 0.91, 0.89, 0.57]
+Score of training (classical) [0.735, 0.885, 0.8475, 0.475]
+Sample 217
+Take max_iter as  687
+Score of validation 0.85
+Score of training 0.9825
+Score of validation (classical) [0.73, 0.84, 0.84, 0.48]
+Score of training (classical) [0.76, 0.89, 0.8825, 0.52]
+Sample 218
+Take max_iter as  667
+Score of validation 0.88
+Score of training 0.98
+Score of validation (classical) [0.79, 0.91, 0.91, 0.61]
+Score of training (classical) [0.7425, 0.875, 0.855, 0.5725]
+Sample 219
+Take max_iter as  730
+Score of validation 0.8
+Score of training 0.955
+Score of validation (classical) [0.7, 0.85, 0.87, 0.51]
+Score of training (classical) [0.7275, 0.8775, 0.86, 0.5025]
+Sample 220
+Take max_iter as  671
+Score of validation 0.86
+Score of training 0.9775
+Score of validation (classical) [0.75, 0.8, 0.8, 0.57]
+Score of training (classical) [0.725, 0.8525, 0.835, 0.55]
+Sample 221
+Take max_iter as  687
+Score of validation 0.9
+Score of training 0.98
+Score of validation (classical) [0.7, 0.8, 0.8, 0.47]
+Score of training (classical) [0.755, 0.9075, 0.89, 0.5075]
+Sample 222
+Take max_iter as  643
+Score of validation 0.84
+Score of training 0.9925
+Score of validation (classical) [0.72, 0.8, 0.82, 0.58]
+Score of training (classical) [0.7625, 0.8825, 0.8875, 0.545]
+Sample 223
+Take max_iter as  678
+Score of validation 0.84
+Score of training 0.985
+Score of validation (classical) [0.67, 0.81, 0.81, 0.56]
+Score of training (classical) [0.7675, 0.8625, 0.855, 0.535]
+Sample 224
+Take max_iter as  699
+Score of validation 0.87
+Score of training 0.9675
+Score of validation (classical) [0.85, 0.87, 0.86, 0.51]
+Score of training (classical) [0.79, 0.8875, 0.8725, 0.5075]
+Sample 225
+Take max_iter as  665
+Score of validation 0.76
+Score of training 0.985
+Score of validation (classical) [0.75, 0.84, 0.83, 0.51]
+Score of training (classical) [0.75, 0.895, 0.88, 0.4875]
+Sample 226
+Take max_iter as  679
+Score of validation 0.9
+Score of training 0.98
+Score of validation (classical) [0.76, 0.86, 0.86, 0.52]
+Score of training (classical) [0.75, 0.9, 0.8875, 0.465]
+Sample 227
+Take max_iter as  690
+Score of validation 0.78
+Score of training 0.98
+Score of validation (classical) [0.76, 0.81, 0.82, 0.57]
+Score of training (classical) [0.775, 0.8675, 0.8475, 0.5725]
+Sample 228
+Take max_iter as  701
+Score of validation 0.86
+Score of training 0.985
+Score of validation (classical) [0.76, 0.86, 0.83, 0.57]
+Score of training (classical) [0.715, 0.895, 0.885, 0.53]
+Sample 229
+Take max_iter as  698
+Score of validation 0.85
+Score of training 0.98
+Score of validation (classical) [0.74, 0.89, 0.85, 0.52]
+Score of training (classical) [0.755, 0.8825, 0.86, 0.5825]
+Sample 230
+Take max_iter as  722
+Score of validation 0.83
+Score of training 0.985
+Score of validation (classical) [0.76, 0.87, 0.82, 0.53]
+Score of training (classical) [0.745, 0.8875, 0.855, 0.4675]
+Sample 231
+Take max_iter as  750
+Score of validation 0.77
+Score of training 0.9775
+Score of validation (classical) [0.68, 0.79, 0.79, 0.49]
+Score of training (classical) [0.7225, 0.8475, 0.85, 0.5075]
+Sample 232
+Take max_iter as  692
+Score of validation 0.85
+Score of training 0.98
+Score of validation (classical) [0.71, 0.85, 0.86, 0.56]
+Score of training (classical) [0.7175, 0.855, 0.84, 0.5175]
+Sample 233
+Take max_iter as  676
+Score of validation 0.82
+Score of training 0.985
+Score of validation (classical) [0.71, 0.83, 0.78, 0.45]
+Score of training (classical) [0.74, 0.8825, 0.85, 0.49]
+Sample 234
+Take max_iter as  653
+Score of validation 0.92
+Score of training 0.9875
+Score of validation (classical) [0.82, 0.89, 0.88, 0.58]
+Score of training (classical) [0.7725, 0.8525, 0.835, 0.51]
+Sample 235
+Take max_iter as  682
+Score of validation 0.87
+Score of training 0.9725
+Score of validation (classical) [0.7, 0.81, 0.8, 0.58]
+Score of training (classical) [0.7575, 0.8725, 0.8725, 0.5025]
+Sample 236
+Take max_iter as  711
+Score of validation 0.84
+Score of training 0.975
+Score of validation (classical) [0.75, 0.82, 0.83, 0.54]
+Score of training (classical) [0.76, 0.865, 0.8975, 0.5075]
+Sample 237
+Take max_iter as  699
+Score of validation 0.9
+Score of training 0.965
+Score of validation (classical) [0.83, 0.9, 0.92, 0.55]
+Score of training (classical) [0.705, 0.8375, 0.8325, 0.5125]
+Sample 238
+Take max_iter as  629
+Score of validation 0.78
+Score of training 0.975
+Score of validation (classical) [0.59, 0.81, 0.79, 0.39]
+Score of training (classical) [0.75, 0.8675, 0.8375, 0.5325]
+Sample 239
+Take max_iter as  768
+Score of validation 0.84
+Score of training 0.98
+Score of validation (classical) [0.8, 0.86, 0.88, 0.49]
+Score of training (classical) [0.7525, 0.8725, 0.845, 0.5375]
+Sample 240
+Take max_iter as  641
+Score of validation 0.84
+Score of training 0.975
+Score of validation (classical) [0.69, 0.88, 0.87, 0.46]
+Score of training (classical) [0.745, 0.895, 0.8825, 0.4625]
+Sample 241
+Take max_iter as  660
+Score of validation 0.84
+Score of training 0.9775
+Score of validation (classical) [0.67, 0.78, 0.79, 0.39]
+Score of training (classical) [0.7425, 0.8675, 0.8525, 0.5175]
+Sample 242
+Take max_iter as  662
+Score of validation 0.82
+Score of training 0.98
+Score of validation (classical) [0.74, 0.76, 0.74, 0.61]
+Score of training (classical) [0.745, 0.855, 0.855, 0.5825]
+Sample 243
+Take max_iter as  732
+Score of validation 0.87
+Score of training 0.97
+Score of validation (classical) [0.66, 0.81, 0.77, 0.53]
+Score of training (classical) [0.7275, 0.84, 0.8025, 0.56]
+Sample 244
+Take max_iter as  683
+Score of validation 0.87
+Score of training 0.9775
+Score of validation (classical) [0.76, 0.9, 0.9, 0.51]
+Score of training (classical) [0.6925, 0.85, 0.85, 0.5525]
+Sample 245
+Take max_iter as  738
+Score of validation 0.82
+Score of training 0.9725
+Score of validation (classical) [0.65, 0.81, 0.81, 0.47]
+Score of training (classical) [0.7575, 0.895, 0.8525, 0.5475]
+Sample 246
+Take max_iter as  701
+Score of validation 0.85
+Score of training 0.9825
+Score of validation (classical) [0.71, 0.81, 0.78, 0.56]
+Score of training (classical) [0.725, 0.87, 0.8475, 0.55]
+Sample 247
+Take max_iter as  747
+Score of validation 0.82
+Score of training 0.9875
+Score of validation (classical) [0.7, 0.82, 0.82, 0.46]
+Score of training (classical) [0.8025, 0.925, 0.91, 0.545]
+Sample 248
+Take max_iter as  720
+Score of validation 0.89
+Score of training 0.9875
+Score of validation (classical) [0.72, 0.84, 0.83, 0.46]
+Score of training (classical) [0.7125, 0.8575, 0.845, 0.5325]
+Sample 249
+Take max_iter as  669
+Score of validation 0.92
+Score of training 0.99
+Score of validation (classical) [0.76, 0.88, 0.89, 0.56]
+Score of training (classical) [0.7275, 0.885, 0.8675, 0.5325]
+Sample 250
+Take max_iter as  680
+Score of validation 0.85
+Score of training 0.98
+Score of validation (classical) [0.77, 0.88, 0.86, 0.54]
+Score of training (classical) [0.7625, 0.9, 0.8775, 0.5125]
+Sample 251
+Take max_iter as  724
+Score of validation 0.86
+Score of training 0.9675
+Score of validation (classical) [0.73, 0.88, 0.85, 0.53]
+Score of training (classical) [0.745, 0.8625, 0.835, 0.5425]
+Sample 252
+Take max_iter as  673
+Score of validation 0.83
+Score of training 0.9625
+Score of validation (classical) [0.71, 0.78, 0.83, 0.47]
+Score of training (classical) [0.755, 0.86, 0.845, 0.505]
+Sample 253
+Take max_iter as  696
+Score of validation 0.78
+Score of training 0.9875
+Score of validation (classical) [0.66, 0.71, 0.7, 0.5]
+Score of training (classical) [0.7575, 0.895, 0.865, 0.525]
+Sample 254
+Take max_iter as  716
+Score of validation 0.87
+Score of training 0.97
+Score of validation (classical) [0.75, 0.84, 0.85, 0.49]
+Score of training (classical) [0.745, 0.8675, 0.8275, 0.54]
+Sample 255
+Take max_iter as  628
+Score of validation 0.87
+Score of training 0.98
+Score of validation (classical) [0.79, 0.95, 0.92, 0.48]
+Score of training (classical) [0.7475, 0.8775, 0.8725, 0.46]
+Sample 256
+Take max_iter as  603
+Score of validation 0.84
+Score of training 0.9825
+Score of validation (classical) [0.68, 0.88, 0.87, 0.48]
+Score of training (classical) [0.72, 0.88, 0.8825, 0.485]
+Sample 257
+Take max_iter as  753
+Score of validation 0.86
+Score of training 0.9825
+Score of validation (classical) [0.75, 0.88, 0.86, 0.59]
+Score of training (classical) [0.755, 0.855, 0.8525, 0.5675]
+Sample 258
+Take max_iter as  661
+Score of validation 0.84
+Score of training 0.9825
+Score of validation (classical) [0.67, 0.86, 0.86, 0.51]
+Score of training (classical) [0.6875, 0.885, 0.8875, 0.465]
+Sample 259
+Take max_iter as  650
+Score of validation 0.84
+Score of training 0.985
+Score of validation (classical) [0.68, 0.83, 0.81, 0.54]
+Score of training (classical) [0.715, 0.8625, 0.8575, 0.48]
+Sample 260
+Take max_iter as  681
+Score of validation 0.85
+Score of training 0.98
+Score of validation (classical) [0.81, 0.92, 0.88, 0.5]
+Score of training (classical) [0.77, 0.8875, 0.8675, 0.545]
+Sample 261
+Take max_iter as  670
+Score of validation 0.86
+Score of training 0.9825
+Score of validation (classical) [0.78, 0.82, 0.81, 0.58]
+Score of training (classical) [0.77, 0.8925, 0.8775, 0.58]
+Sample 262
+Take max_iter as  660
+Score of validation 0.87
+Score of training 0.985
+Score of validation (classical) [0.71, 0.83, 0.84, 0.42]
+Score of training (classical) [0.7, 0.8775, 0.8425, 0.525]
+Sample 263
+Take max_iter as  632
+Score of validation 0.88
+Score of training 0.98
+Score of validation (classical) [0.8, 0.86, 0.85, 0.52]
+Score of training (classical) [0.745, 0.87, 0.855, 0.6]
+Sample 264
+Take max_iter as  663
+Score of validation 0.91
+Score of training 0.98
+Score of validation (classical) [0.77, 0.87, 0.86, 0.48]
+Score of training (classical) [0.7525, 0.85, 0.835, 0.5725]
+Sample 265
+Take max_iter as  710
+Score of validation 0.81
+Score of training 0.9725
+Score of validation (classical) [0.73, 0.85, 0.87, 0.49]
+Score of training (classical) [0.7, 0.8675, 0.8525, 0.535]
+Sample 266
+Take max_iter as  703
+Score of validation 0.86
+Score of training 0.985
+Score of validation (classical) [0.74, 0.87, 0.82, 0.44]
+Score of training (classical) [0.7875, 0.8625, 0.8475, 0.545]
+Sample 267
+Take max_iter as  665
+Score of validation 0.84
+Score of training 0.9775
+Score of validation (classical) [0.74, 0.84, 0.82, 0.52]
+Score of training (classical) [0.775, 0.8625, 0.845, 0.585]
+Sample 268
+Take max_iter as  692
+Score of validation 0.87
+Score of training 0.985
+Score of validation (classical) [0.69, 0.84, 0.81, 0.55]
+Score of training (classical) [0.755, 0.8725, 0.8525, 0.63]
+Sample 269
+Take max_iter as  774
+Score of validation 0.91
+Score of training 0.985
+Score of validation (classical) [0.78, 0.83, 0.82, 0.65]
+Score of training (classical) [0.735, 0.86, 0.8675, 0.5575]
+Sample 270
+Take max_iter as  616
+Score of validation 0.89
+Score of training 0.9825
+Score of validation (classical) [0.77, 0.87, 0.87, 0.59]
+Score of training (classical) [0.7425, 0.8525, 0.84, 0.5425]
+Sample 271
+Take max_iter as  682
+Score of validation 0.85
+Score of training 0.985
+Score of validation (classical) [0.79, 0.87, 0.84, 0.48]
+Score of training (classical) [0.725, 0.895, 0.89, 0.5175]
+Sample 272
+Take max_iter as  657
+Score of validation 0.86
+Score of training 0.97
+Score of validation (classical) [0.78, 0.82, 0.82, 0.57]
+Score of training (classical) [0.735, 0.8675, 0.87, 0.485]
+Sample 273
+Take max_iter as  704
+Score of validation 0.84
+Score of training 0.9875
+Score of validation (classical) [0.75, 0.85, 0.85, 0.52]
+Score of training (classical) [0.7625, 0.885, 0.86, 0.5775]
+Sample 274
+Take max_iter as  696
+Score of validation 0.85
+Score of training 0.9825
+Score of validation (classical) [0.67, 0.8, 0.79, 0.6]
+Score of training (classical) [0.7425, 0.8775, 0.87, 0.4975]
+Sample 275
+Take max_iter as  720
+Score of validation 0.84
+Score of training 0.975
+Score of validation (classical) [0.77, 0.86, 0.87, 0.48]
+Score of training (classical) [0.695, 0.8675, 0.8375, 0.44]
+Sample 276
+Take max_iter as  675
+Score of validation 0.8
+Score of training 0.9825
+Score of validation (classical) [0.62, 0.83, 0.8, 0.45]
+Score of training (classical) [0.75, 0.8725, 0.8675, 0.4875]
+Sample 277
+Take max_iter as  688
+Score of validation 0.79
+Score of training 0.985
+Score of validation (classical) [0.7, 0.8, 0.81, 0.53]
+Score of training (classical) [0.7175, 0.88, 0.865, 0.4925]
+Sample 278
+Take max_iter as  628
+Score of validation 0.92
+Score of training 0.965
+Score of validation (classical) [0.73, 0.87, 0.82, 0.53]
+Score of training (classical) [0.7725, 0.855, 0.8675, 0.5925]
+Sample 279
+Take max_iter as  686
+Score of validation 0.83
+Score of training 0.9775
+Score of validation (classical) [0.71, 0.85, 0.81, 0.57]
+Score of training (classical) [0.7725, 0.8825, 0.855, 0.625]
+Sample 280
+Take max_iter as  716
+Score of validation 0.85
+Score of training 0.985
+Score of validation (classical) [0.75, 0.87, 0.87, 0.53]
+Score of training (classical) [0.7325, 0.9025, 0.8625, 0.495]
+Sample 281
+Take max_iter as  638
+Score of validation 0.81
+Score of training 0.98
+Score of validation (classical) [0.69, 0.83, 0.81, 0.5]
+Score of training (classical) [0.6975, 0.85, 0.86, 0.5525]
+Sample 282
+Take max_iter as  668
+Score of validation 0.85
+Score of training 0.9725
+Score of validation (classical) [0.74, 0.82, 0.82, 0.6]
+Score of training (classical) [0.725, 0.845, 0.83, 0.5825]
+Sample 283
+Take max_iter as  679
+Score of validation 0.82
+Score of training 0.985
+Score of validation (classical) [0.66, 0.88, 0.82, 0.45]
+Score of training (classical) [0.6875, 0.875, 0.8525, 0.47]
+Sample 284
+Take max_iter as  691
+Score of validation 0.82
+Score of training 0.9875
+Score of validation (classical) [0.73, 0.81, 0.81, 0.47]
+Score of training (classical) [0.7175, 0.91, 0.8775, 0.445]
+Sample 285
+Take max_iter as  633
+Score of validation 0.87
+Score of training 0.9825
+Score of validation (classical) [0.65, 0.83, 0.84, 0.5]
+Score of training (classical) [0.7475, 0.8725, 0.8675, 0.5375]
+Sample 286
+Take max_iter as  654
+Score of validation 0.81
+Score of training 0.9875
+Score of validation (classical) [0.65, 0.78, 0.78, 0.5]
+Score of training (classical) [0.7525, 0.865, 0.8675, 0.54]
+Sample 287
+Take max_iter as  707
+Score of validation 0.9
+Score of training 0.9625
+Score of validation (classical) [0.71, 0.89, 0.88, 0.46]
+Score of training (classical) [0.7175, 0.8525, 0.8325, 0.5025]
+Sample 288
+Take max_iter as  696
+Score of validation 0.83
+Score of training 0.9725
+Score of validation (classical) [0.72, 0.86, 0.86, 0.51]
+Score of training (classical) [0.78, 0.8625, 0.8525, 0.5075]
+Sample 289
+Take max_iter as  639
+Score of validation 0.9
+Score of training 0.9875
+Score of validation (classical) [0.77, 0.83, 0.79, 0.5]
+Score of training (classical) [0.765, 0.8575, 0.835, 0.5725]
+Sample 290
+Take max_iter as  665
+Score of validation 0.82
+Score of training 0.98
+Score of validation (classical) [0.73, 0.85, 0.84, 0.46]
+Score of training (classical) [0.7675, 0.8775, 0.8775, 0.5025]
+Sample 291
+Take max_iter as  653
+Score of validation 0.88
+Score of training 0.97
+Score of validation (classical) [0.78, 0.86, 0.83, 0.57]
+Score of training (classical) [0.76, 0.875, 0.8675, 0.505]
+Sample 292
+Take max_iter as  704
+Score of validation 0.79
+Score of training 0.9775
+Score of validation (classical) [0.71, 0.84, 0.8, 0.5]
+Score of training (classical) [0.75, 0.845, 0.8475, 0.56]
+Sample 293
+Take max_iter as  690
+Score of validation 0.86
+Score of training 0.975
+Score of validation (classical) [0.73, 0.8, 0.81, 0.64]
+Score of training (classical) [0.7575, 0.895, 0.875, 0.55]
+Sample 294
+Take max_iter as  740
+Score of validation 0.84
+Score of training 0.9825
+Score of validation (classical) [0.83, 0.85, 0.85, 0.55]
+Score of training (classical) [0.78, 0.895, 0.9, 0.535]
+Sample 295
+Take max_iter as  666
+Score of validation 0.86
+Score of training 0.9775
+Score of validation (classical) [0.73, 0.81, 0.82, 0.58]
+Score of training (classical) [0.7175, 0.8525, 0.83, 0.5425]
+Sample 296
+Take max_iter as  710
+Score of validation 0.86
+Score of training 0.9825
+Score of validation (classical) [0.7, 0.83, 0.77, 0.63]
+Score of training (classical) [0.7525, 0.86, 0.8375, 0.59]
+Sample 297
+Take max_iter as  699
+Score of validation 0.82
+Score of training 0.9825
+Score of validation (classical) [0.67, 0.82, 0.81, 0.53]
+Score of training (classical) [0.7175, 0.865, 0.8425, 0.51]
+Sample 298
+Take max_iter as  653
+Score of validation 0.85
+Score of training 0.985
+Score of validation (classical) [0.7, 0.86, 0.83, 0.49]
+Score of training (classical) [0.7625, 0.8925, 0.85, 0.5025]
+Sample 299
+Take max_iter as  737
+Score of validation 0.9
+Score of training 0.975
+Score of validation (classical) [0.73, 0.84, 0.81, 0.5]
+Score of training (classical) [0.7775, 0.8825, 0.86, 0.5625]
