@@ -19,7 +19,7 @@ The python script request qiskit, pandas, numpy, etc. Please create a conda envi
 Please also install jupyter notebook inside the conda environment if you want to use the interactive .ipynb file. Then activate the environment and start playing.
 ```shell
 conda activate quantum
-jupyter notebook
+jupyter notebook QuantumSVM-HEA.ipynb
 ```
 ### data postprcessing
 
