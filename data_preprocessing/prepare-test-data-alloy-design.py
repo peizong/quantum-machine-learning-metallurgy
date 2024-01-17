@@ -56,7 +56,7 @@ def write_to_file(dat,filename):
   dat.to_csv(filename)
 
 if __name__=="__main__":
-  num_alloys=2864 
+  num_alloys=25476 
   TM_results="selected-HEAs-equiatomic-lightweight-"+str(num_alloys)+".csv"
   alloys_TM=read_data(TM_results)['sys1']
   print("alloys_TM: ",alloys_TM[0])
